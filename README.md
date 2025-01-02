@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Astral](https://github.com/itztiva/Astral)
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **cia.gov2 on discord**
+- 📫 How to reach me **datarouter on discord**
 
 - ⚡ Fun fact **I like to Code**
 
