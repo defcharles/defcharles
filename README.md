@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defcharles&label=Profile%20views&color=0e75b6&style=flat" alt="defcharles" /> </p>
 
-- 🔭 I’m currently working on [Astral](https://github.com/itztiva/Astral)
+- 🔭 I’m currently working on [Solaris](https://discord.com/invite/solarisfn)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **datarouter on discord**
-
-- ⚡ Fun fact **I like to Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
