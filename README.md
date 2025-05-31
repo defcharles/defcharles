@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **datarouter on discord**
+- 📫 How to reach me **shadowcircuit.1 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
