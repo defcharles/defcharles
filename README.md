@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">An 18 year old developer From OHIO</h3>
+<h1 align="center">Hi, I'm Charles</h1>
+<h3 align="center">An 18 year old developer from OHIO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defcharles&label=Profile%20views&color=0e75b6&style=flat" alt="defcharles" /> </p>
 
