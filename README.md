@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A  Developer From OHIO</h3>
+<h3 align="center">An 18 year old developer From OHIO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defcharles&label=Profile%20views&color=0e75b6&style=flat" alt="defcharles" /> </p>
 
-- 🔭 I’m currently working on [Solaris](https://discord.com/invite/solarisfn)
-
-- 🌱 I’m currently learning **C++**
+- I like to work with TypeScript, C++, Golang.
 
 - 📫 How to reach me **shadowcircuit.1 on discord**
 
