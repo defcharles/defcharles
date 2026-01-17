@@ -5,7 +5,7 @@
 
 - I like to work with TypeScript, C++, Golang.
 
-- 📫 How to reach me **shadowcircuit.1 on discord**
+- 📫 How to reach me **charleslb56444 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
